@@ -7,10 +7,6 @@ Verify that all required packages are installed and accessible.
 import sys
 import platform
 import os
-import io
-
-# Force UTF-8 encoding for stdout (fixes Windows cp1252 issue)
-sys.stdout = io.TextIOWrapper(sys.stdout.buffer, encoding='utf-8')
 
 def verify_environment():
     """Verify Python environment and package installations."""

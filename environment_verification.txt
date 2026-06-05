@@ -1,0 +1,15 @@
+[Running] python -u "c:\Users\ajavo\ai_labs\ai_env\environment_test.py"
+==================================================
+LAB 0: ENVIRONMENT VERIFICATION
+==================================================
+✅ Python Version: 3.13.1
+✅ OS: Windows 11
+✅ NumPy: 2.4.6
+✅ Pandas: 3.0.3
+✅ Matplotlib: 3.10.9
+✅ Seaborn: 0.13.2
+✅ Virtual Environment: Active (C:\Users\ajavo\ai_labs\ai_env)
+==================================================
+
+[Done] exited with code=0 in 2.273 seconds
+
